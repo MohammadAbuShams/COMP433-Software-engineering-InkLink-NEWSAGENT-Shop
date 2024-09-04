@@ -23,5 +23,5 @@ This system has been developed with a focus on reliability, user-friendliness, a
 ## Contributors
 - [Joud Hijaz](https://github.com/JoudHijaz)
 - [Mohammad AbuShams](https://github.com/MohammadAbuShams)
-- [Hatem Hussien]
+- Hatem Hussien
 
